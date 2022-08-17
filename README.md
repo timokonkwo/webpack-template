@@ -51,3 +51,35 @@ Develop and build
 ## Appendix
 
 Read more about webpack [here](https://webpack.js.org)
+
+
+
+
+
+
+## dependences
+
+
+**dependences:** 
+- webpack 
+- webpack-cli 
+- webpack-dev-server
+- webpack-bundle-analyzer 
+- babel 
+- @babel/core 
+- sass
+
+**Plugins:**
+- html-webpack-plugin
+**Loaders:** 
+- babel-loader 
+- css-loader
+- sass-loader
+- style-loader
+
+**Presets:**
+- @babel/preset-env
+
+**Server:** 
+- Webpack DevServer
+
